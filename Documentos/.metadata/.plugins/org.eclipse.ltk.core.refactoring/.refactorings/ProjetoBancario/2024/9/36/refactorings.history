@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GerenciadoraClientesTest2.java&apos; to &apos;GerenciadoraClientesTest2.java&apos;&#x0D;&#x0A;- Original project: &apos;ProjetoBancario&apos;&#x0D;&#x0A;- Destination element: &apos;GerenciadoraClientesTest2.java&apos;&#x0D;&#x0A;- Original element: &apos;GerenciadoraClientesTest2.java&apos;" description="Copy file" element1="ProjetoBancario/testes/sistemabancario/GerenciadoraClientesTest2.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1725658302617" target="/ProjetoBancario/ProjetoBancario/testes/sistemabancario/GerenciadoraClientesTest2.java" units="0" version="1.0"/>
+</session>
